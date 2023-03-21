@@ -1,0 +1,6 @@
+dotnet new mvc --language "C#" --name "DemoMVC" --framework "NET7.0" --output .
+
+dotnet new mvc 
+dotnet restore
+dotnet build
+dotnet run
