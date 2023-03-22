@@ -1,66 +1,24 @@
-dotnet new mvc --language "C#" --name "DemoMVC" --framework "NET7.0" --output .
-
-dotnet new mvc 
-dotnet restore
-dotnet build
-dotnet run
-
-
-dotnet new
+Comandos basicos
+	dotnet new
+	dotnet restore
+	dotnet build
+	dotnet run
+Instalar
+	dotnet install package 
 
 
-
-dotnet restore
-
-dotnet build
-
-dotnet run
-
-dotnet install package 
+Crear Solucion
+	dotnet new sln -n "Nombre" -o .
+	dotnet sln list //para ver la lista de sln
 
 
+Añadir Consola, WebApp y Libreria
+	dotnet new console -n "ConsoleName" -o .\ConsoleName
+	dotnet new mvc -n "WebAppName" -o .\WebAppName
+	dotnet new classlib -n "Name.Core" -o .\NameCore
 
-dotnet new sln
-
-dotnet sln list
-
-dotnet sln add/remove
+Añadir a solucion
+	dotnet sln add/remove  // añadir o remover la sln
 
 
 
-nombre de solución, se puede poner con espacios
-
-nombre de proyectos, no deben tener espacios
-
-
-
-							Morfeus Solutions
-
-							MorfeusSolutions
-
-
-
-							Morfeus.Core
-
-							Morfeus.Web.Frontend
-
-							Morfeus.Api
-
-							Morfeus.Mobile.App.Admin
-
-							Morfeus.Mobile.App.Customer
-
-
-dotnet new sln -n "Programando en C#" -o .
-
-Borja Cabeza Rozas10:31
-dotnet new console -n "Programando.CSharp.Demos" -o .\Programando.CSharp.Demos
-
-Borja Cabeza Rozas10:31
-dotnet new console -n "Programando.CSharp.ConsoleApp1" -o .\Programando.CSharp.ConsoleApp1
-
-Borja Cabeza Rozas10:31
-dotnet sln add (ls -r **/*.csproj)
-
-Borja Cabeza Rozas10:31
-dotnet sln list
