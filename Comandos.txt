@@ -4,3 +4,63 @@ dotnet new mvc
 dotnet restore
 dotnet build
 dotnet run
+
+
+dotnet new
+
+
+
+dotnet restore
+
+dotnet build
+
+dotnet run
+
+dotnet install package 
+
+
+
+dotnet new sln
+
+dotnet sln list
+
+dotnet sln add/remove
+
+
+
+nombre de solución, se puede poner con espacios
+
+nombre de proyectos, no deben tener espacios
+
+
+
+							Morfeus Solutions
+
+							MorfeusSolutions
+
+
+
+							Morfeus.Core
+
+							Morfeus.Web.Frontend
+
+							Morfeus.Api
+
+							Morfeus.Mobile.App.Admin
+
+							Morfeus.Mobile.App.Customer
+
+
+dotnet new sln -n "Programando en C#" -o .
+
+Borja Cabeza Rozas10:31
+dotnet new console -n "Programando.CSharp.Demos" -o .\Programando.CSharp.Demos
+
+Borja Cabeza Rozas10:31
+dotnet new console -n "Programando.CSharp.ConsoleApp1" -o .\Programando.CSharp.ConsoleApp1
+
+Borja Cabeza Rozas10:31
+dotnet sln add (ls -r **/*.csproj)
+
+Borja Cabeza Rozas10:31
+dotnet sln list
