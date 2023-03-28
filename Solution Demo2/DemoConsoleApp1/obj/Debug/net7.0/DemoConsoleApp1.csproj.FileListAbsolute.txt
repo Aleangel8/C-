@@ -1,0 +1,15 @@
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\bin\Debug\net7.0\DemoConsoleApp1.exe
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\bin\Debug\net7.0\DemoConsoleApp1.deps.json
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\bin\Debug\net7.0\DemoConsoleApp1.runtimeconfig.json
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\bin\Debug\net7.0\DemoConsoleApp1.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\bin\Debug\net7.0\DemoConsoleApp1.pdb
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.csproj.AssemblyReference.cache
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.AssemblyInfoInputs.cache
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.AssemblyInfo.cs
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\refint\DemoConsoleApp1.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.pdb
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\DemoConsoleApp1.genruntimeconfig.cache
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\Solution Demo2\DemoConsoleApp1\obj\Debug\net7.0\ref\DemoConsoleApp1.dll

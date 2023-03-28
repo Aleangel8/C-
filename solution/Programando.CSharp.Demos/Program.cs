@@ -19,7 +19,7 @@ namespace Programando.CSharp.Demos
 
          static void SentenciasControl()
         {
-            Reserva[] reservas_list;
+            Reserva[] reservas_list= new Reserva[5];
 //Modo 1 de crear reserva. Accede porque las variables son publicas
             var reserva = new Reserva();
             reserva.id = "1066HC";

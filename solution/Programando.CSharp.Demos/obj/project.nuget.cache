@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9bDlcLb6iobDaJJmM6BIMnn89HOrsa6+KtNfvtTe3z+Tj535zjd8QA3D+vnS4P4HBW9XctMtYpgH28Z0OffQFw==",
+  "dgSpecHash": "q41BI8EyAAOjhsq8ZO1gKb+y7NE9oKLiJ/rn0CFgviv780sfh8yM7Dp5aVsvWF8HxT/zEp7UwE51UFJJ0JCj5Q==",
   "success": true,
   "projectFilePath": "D:\\Automatica\\!!!programming route\\Cloud Computing\\C# Repos\\C#\\solution\\Programando.CSharp.Demos\\Programando.CSharp.Demos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Propietario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
