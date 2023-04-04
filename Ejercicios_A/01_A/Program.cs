@@ -53,7 +53,6 @@ while (volver == 1)
         catch (System.DivideByZeroException) 
         {
             Console.WriteLine("Division por 0 no permitida");
-            Console.ReadKey();
         }
     }
 

@@ -13,3 +13,15 @@ D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programa
 D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\obj\Debug\net7.0\Programando.CSharp.Demos.pdb
 D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\obj\Debug\net7.0\Programando.CSharp.Demos.genruntimeconfig.cache
 D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\obj\Debug\net7.0\ref\Programando.CSharp.Demos.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\obj\Debug\net7.0\Programando.CSharp.Demos.csproj.CopyComplete
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.Demos\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
