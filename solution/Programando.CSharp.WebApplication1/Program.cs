@@ -3,6 +3,9 @@ using Programando.CSharp.WebApplication1.Model;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+// SERVICIOS o INYECCION DE DEPENDENCIAS
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

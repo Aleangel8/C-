@@ -166,6 +166,7 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
         static void Ejercicios()
         {
             // Listado de clientes mayores de 50
+            Console.WriteLine("***** Ejercicio 1 *****");
 
             var cincuentañeros = DataLists.ListaClientes
                 .Where(r => r.FechaNac.Year < DateTime.Now.AddYears(-50).Year)
@@ -177,6 +178,7 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
             Console.WriteLine("");
 
             // Listado de productos que comiencen por la letra c ordenar por precio
+            Console.WriteLine("***** Ejercicio 2 *****");
 
             var cproduct = from r in DataLists.ListaProductos
                            where r.Descripcion.ToLower()[0] == 'c'
@@ -190,6 +192,7 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
 
 
             // Preguntar por el id de un pedido y listar el contenido
+            Console.WriteLine("***** Ejercicio 3 *****");
 
             Console.Write("Digame el pedido: ");
             int id = int.Parse(Console.ReadLine());
@@ -220,6 +223,8 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
 
 
             // Mostrar el total value de ese pedido,cantxprecio
+            Console.WriteLine("***** Ejercicio 4 *****");
+
             Console.Write("Número de Pedido: ");
             int idPedido = Convert.ToInt32(Console.ReadLine());
 
@@ -237,6 +242,8 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
 
 
             // Listado de pedidos que contengan Lapicero 
+            Console.WriteLine("***** Ejercicio 5 *****");
+
             var id_prod = from r in DataLists.ListaProductos
                           where r.Descripcion == "Lapicero"
                           select r.Id;
@@ -253,6 +260,8 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
 
 
             // Contamos cantidad de pedidos que contengan Cuaderno Grande
+            Console.WriteLine("***** Ejercicio 6 *****");
+
             var id_prod2 = from r in DataLists.ListaProductos
                            where r.Descripcion == "Cuaderno grande"
                            select r.Id;
@@ -280,6 +289,8 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
 
 
             // Unidades vendidas de Cuaderno pequeño
+            Console.WriteLine("***** Ejercicio 7 *****");
+
             var id_cp = from r in DataLists.ListaProductos
                         where r.Descripcion.ToLower() == "cuaderno pequeño"
                         select r.Id;
@@ -291,8 +302,12 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
             foreach (var item in cantidades_cp) { suma += item; }
             Console.WriteLine($"La cantidad total vendida de Cuaderno pequeño es: {suma}");
 
+            Console.WriteLine("");
+
 
             // El pedido que mas unidades contiene hecho con for y listas
+            Console.WriteLine("***** Ejercicio 8 *****");
+
             var bigger = 0;
             var bigger_id = 0;
 
@@ -303,22 +318,32 @@ namespace Programando.CSharp.Ejercicios.ConsoleApp1
                                  .Where(r => r.IdProducto == i)
                                  .Select(r => r.Cantidad);
                 var cant_sumada = 0;
-                foreach (var item2 in cantidades_totales) 
+                foreach (var item2 in cantidades_totales)
                 {
                     cant_sumada += item2;
-                     
+
                 }
                 Console.WriteLine($"La cantidad de IdProducto {i} es: {cant_sumada}");
-                if(cant_sumada > bigger) 
+                if (cant_sumada > bigger)
                 {
                     bigger = cant_sumada;
                     bigger_id = i;
                 }
-                
+
             }
             Console.WriteLine($"El IdProducto de mayor cantidad es : {bigger_id}");
-            
+
+            Console.WriteLine("");
             // Listados de pedidos ordenados por fecha
+            Console.WriteLine("***** Ejercicio 9 *****");
+
+            var fecha_pedido = from r in DataLists.ListaPedidos
+                               orderby r.FechaPedido
+                               select r.FechaPedido;
+
+            for (var i = 0; i < fecha_pedido.Count(); i++) { Console.WriteLine($"Fecha pedido {(i + 1).ToString().PadRight(5)}: {fecha_pedido.ToList()[i].ToShortDateString()}"); }
+
+
         }
     }
 
