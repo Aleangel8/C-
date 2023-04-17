@@ -16,12 +16,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Automatica\!!!programming route\Cloud Computing\C# Repos\C#\solution\Programando.CSharp.WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Clientes/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Empleados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Automatica/\!\!\!programming route/Cloud Computing/C\# Repos/C\#/solution/Programando.CSharp.WebApplication1/Views/Shared/Error.cshtml]

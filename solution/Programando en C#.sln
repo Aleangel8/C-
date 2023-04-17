@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programando.CSharp.ConsoleE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programando.CSharp.WebApplication1", "Programando.CSharp.WebApplication1\Programando.CSharp.WebApplication1.csproj", "{9A70EBD8-B87C-482D-835B-0BDD26250870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programando.CSharp.Ejercicios.ConsoleApp2", "Programando.CSharp.Ejercicios.ConsoleApp2\Programando.CSharp.Ejercicios.ConsoleApp2.csproj", "{E4D1CF8B-5A28-45A2-8BBE-946E77E80245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programando.CSharp.Ejercicios.ConsoleApp2", "Programando.CSharp.Ejercicios.ConsoleApp2\Programando.CSharp.Ejercicios.ConsoleApp2.csproj", "{E4D1CF8B-5A28-45A2-8BBE-946E77E80245}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programando.CSharp.WebAPI1", "Programando.CSharp.WebAPI1\Programando.CSharp.WebAPI1.csproj", "{D73C7156-55B5-4446-932F-03DF0AEDF082}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programando.CSharp.ConsoleHttpClient", "Programando.CSharp.ConsoleHttpClient\Programando.CSharp.ConsoleHttpClient.csproj", "{86912199-554B-4691-979B-8AFF153191EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programando.CSharp.ConsoleApp4", "Programando.CSharp.ConsoleApp4\Programando.CSharp.ConsoleApp4.csproj", "{1C50DB99-175E-4937-923B-F72E4F091507}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{E4D1CF8B-5A28-45A2-8BBE-946E77E80245}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D1CF8B-5A28-45A2-8BBE-946E77E80245}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D1CF8B-5A28-45A2-8BBE-946E77E80245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73C7156-55B5-4446-932F-03DF0AEDF082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73C7156-55B5-4446-932F-03DF0AEDF082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73C7156-55B5-4446-932F-03DF0AEDF082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73C7156-55B5-4446-932F-03DF0AEDF082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86912199-554B-4691-979B-8AFF153191EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86912199-554B-4691-979B-8AFF153191EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86912199-554B-4691-979B-8AFF153191EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86912199-554B-4691-979B-8AFF153191EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C50DB99-175E-4937-923B-F72E4F091507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C50DB99-175E-4937-923B-F72E4F091507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C50DB99-175E-4937-923B-F72E4F091507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C50DB99-175E-4937-923B-F72E4F091507}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

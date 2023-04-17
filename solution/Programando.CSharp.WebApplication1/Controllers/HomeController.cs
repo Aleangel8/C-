@@ -15,11 +15,6 @@ namespace Programando.CSharp.WebApplication1.Controllers
             _context = context;
         }
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
             var clientes = _context.Customers.ToList();          
